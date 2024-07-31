@@ -1,0 +1,1 @@
+/nfs4/chaozhang/proj/Embryo/Yota/RNAseq_Apr2024/script/Bulk_RNA.R
